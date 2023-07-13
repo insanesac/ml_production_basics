@@ -1,0 +1,5 @@
+flask
+flasgger
+tensorflow
+pillow
+mod_wsgi

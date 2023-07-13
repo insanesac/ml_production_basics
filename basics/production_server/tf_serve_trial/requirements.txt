@@ -1,0 +1,5 @@
+flask
+flasgger
+numpy
+pandas
+mod_wsgi
